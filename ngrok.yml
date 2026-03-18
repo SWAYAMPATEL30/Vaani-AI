@@ -1,0 +1,15 @@
+﻿# ngrok configuration file
+# This file is automatically created when you run: ngrok config add-authtoken
+# Authtoken: YOUR_NGROK_AUTHTOKEN
+
+version: "2"
+authtoken: YOUR_NGROK_AUTHTOKEN
+
+tunnels:
+  voice-agent:
+    proto: http
+    addr: 5000
+
+
+
+
