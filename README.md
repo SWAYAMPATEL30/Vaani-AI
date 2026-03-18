@@ -253,7 +253,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-**Built with ❤️ — Vaani AI**
 
 *Bringing AI-powered Hindi conversations to every phone call*
 
